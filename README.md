@@ -1,6 +1,3 @@
-
-# FDS_Project_Group_07
-
 # Fake News Classifier System
 
 Click here for colab file and dataset: [Click Here](https://drive.google.com/drive/folders/1xEJyaPQuZSfL0t1t30VOdrttCOgy18FS?usp=sharing)
